@@ -1,0 +1,58 @@
+#nyc
+{
+background-image:url("https://blog-www.pods.com/wp-content/uploads/2020/01/MG_NY_8_1_Queens.jpg");
+background-size: cover;
+height:100vh;
+}
+
+
+.first
+{
+color: #1E90FF;
+font-size: 150%;
+font-weight: bold;
+}
+
+
+.second
+{
+color: SlateBlue;
+font-size: 150%;
+font-weight: bold;
+}
+
+
+ .container
+{
+width: 80%;
+margin: auto;
+}
+
+
+ .contain
+{
+width: 60%;
+margin: auto;
+}
+
+
+.button:link, .button:visited
+{
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+.button5:hover, a:active
+{
+  background-color: green;
+  color: white;
+}
+
+
+
